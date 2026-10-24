@@ -55,3 +55,12 @@ This project uses a supplied dataset for portfolio and learning purposes. The fi
 
 ## Business Value
 This project demonstrates how SQL and Power BI can be used to explore business performance, track KPIs, identify areas for investigation, and communicate insights through dashboards.
+
+## Power BI Dashboard
+
+### Page 1: Sales & Business Performance
+![Sales Dashboard](dashboard_page1.png)
+
+### Page 2: Customer & Marketing Insights
+![Customer and Marketing Dashboard](dashboard_page2.png)
+
