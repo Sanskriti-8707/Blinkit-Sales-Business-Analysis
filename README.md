@@ -59,8 +59,8 @@ This project demonstrates how SQL and Power BI can be used to explore business p
 ## Power BI Dashboard
 
 ### Page 1: Sales & Business Performance
-![Sales Dashboard](dashboard_page1.png)
+![Sales Dashboard](screenshots/dashboard_page1.png)
 
 ### Page 2: Customer & Marketing Insights
-![Customer and Marketing Dashboard](dashboard_page2.png)
+![Customer and Marketing Dashboard](screenshots/dashboard_page2.png)
 
