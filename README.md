@@ -48,7 +48,7 @@ The dashboard provides a starting point for identifying sales trends, high-perfo
 
 ## Project Files
 - `SQL/blinkit_analysis.sql`: SQL queries for business analysis
-- `dashboard/Blinkit_Sales_Business_Analysis.pbix`: Power BI dashboard file
+- `dashboard/Blinkit_Sales_Business_Analysis.pbix` : Power BI dashboard file
 - `screenshots/`: Power BI dashboard screenshots (Page 1 and Page 2)
 
 ## Limitations
